@@ -1,6 +1,7 @@
 # Whale repository
 My favorite Whale is Docker.  
-After running this app you will never say  
+After running this app you will **NEVER** say 
+![meme](./meme.png) 
 **"But it works on my machine?!😭"**
 
 # Docker Hands-on Guide
