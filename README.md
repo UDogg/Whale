@@ -1,6 +1,6 @@
 # Whale
-My favorite Whale is Docker.
-After running this app you will never say
+My favorite Whale is Docker.  
+After running this app you will never say  
 **It works on my machine?!😭**
 
 # Docker Hands-on Guide
