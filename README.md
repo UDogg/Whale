@@ -78,10 +78,6 @@ Developers looking to integrate more deeply with Docker Hub can explore the [Doc
 
 Docker Hub provides a central hub for managing Docker images, automating builds, and collaborating with teams and the Docker community, making it an essential tool for modern containerized applications.
 
-## Hands-on Exercises
-
-This guide includes hands-on exercises to help solidify your understanding of Docker. You'll start by building a simple web application container and progressively move on to more complex scenarios, including multi-container applications.
-
 ## Additional Resources
 
 To deepen your knowledge of Docker, consider exploring the following resources:
@@ -92,7 +88,7 @@ To deepen your knowledge of Docker, consider exploring the following resources:
 
 ## Feedback
 
-Your feedback is important to us! If you have suggestions on how to improve this guide or encounter any issues, please feel free to contribute to the project or open an issue on GitHub.
+Your feedback is important to me! If you have suggestions on how to improve this guide or encounter any issues, please feel free to contribute to the project or open an issue on GitHub.
 
 Happy Dockerizing!
 
